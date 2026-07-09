@@ -1,0 +1,1 @@
+# create-scala-app-templates
