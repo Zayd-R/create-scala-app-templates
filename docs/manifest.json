@@ -5,16 +5,16 @@
   "baseUrl": "https://github.com/zayd-r/create-scala-app-templates/releases/download",
   "templates": [
     {
-      "value": "web-api",
-      "framework": "typelevel",
+      "category": "web-api",
+      "value": "typelevel",
       "description": "HTTP API server (http4s + Cats Effect + Doobie)",
       "version": "0.0.1",
       "artifact": "web-api-typelevel-0.0.1.zip",
       "checksum": "web-api-typelevel-0.0.1.zip.sha256"
     },
     {
-      "value": "web-api",
-      "framework": "zio",
+      "category": "web-api",
+      "value": "zio",
       "description": "HTTP API server (ZIO HTTP + ZIO + Quill)",
       "version": "0.0.1",
       "artifact": "web-api-zio-0.0.1.zip",
@@ -22,8 +22,8 @@
       "status": "coming-soon"
     },
     {
-      "value": "cli-tool",
-      "framework": "typelevel",
+      "category": "cli-tool",
+      "value": "decline-effect",
       "description": "Command-line application (Cats Effect + Decline)",
       "version": "0.0.1",
       "artifact": "cli-tool-typelevel-0.0.1.zip",
